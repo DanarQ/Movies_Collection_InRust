@@ -1,1 +1,1 @@
-Its just a simple excersise for method in rust
+Its just a simple exercise for method in rust
